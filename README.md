@@ -5,11 +5,9 @@ hindamine raudbetoonist seinaelementide pööramisel“** põhjal.
 
 Autor: **Martin Bergmann**
 
-Rakendus on kasutatav Streamlitis aadressil:
+Rakendus on kasutatav Streamlitis:
 
-```text
-https://lifting-loop-capacity.streamlit.app/
-```
+👉 [Ava tõsteaasa kalkulaator](https://tosteaasa-kalkulaator.streamlit.app/)
 
 ## Seos lõputööga
 
